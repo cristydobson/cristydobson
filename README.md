@@ -6,7 +6,7 @@ I'm Cristy and spend most of my time working on iOS development with Swift. I ha
 
 ⚡️ I wake up every day excited to learn and apply more of what iOS dev has to offer, and if there's something you think I should learn, I'd love to hear and learn from you! 💬
 
-Do you need help? I'd be happy to try and help you! 👩🏻‍💻 👍
+⚡️ Do you need help? I'd be happy to try and help you! 👩🏻‍💻 👍
 
 <!--
 **cristydobson/cristydobson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
